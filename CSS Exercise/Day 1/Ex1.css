@@ -1,0 +1,21 @@
+#H1{
+    background-color: red;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#H2{
+    background-color: rgb(241, 162, 206);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
+}
+#H3{
+    background-color: #eb5928;
+    text-shadow: 2px 2px red;
+    text-align: center;
+}
+
+div{
+    background-color: aqua;
+}
+ul{
+    font-size: 20px;
+}

@@ -1,0 +1,12 @@
+body{
+    background-image: url(Images/david-clode-MNEGikPGkAM-unsplash.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+}
+img{
+    width: 300px;
+    height: auto;
+    position:  relative; 
+    top: -16px;
+    right: -1225px;
+}

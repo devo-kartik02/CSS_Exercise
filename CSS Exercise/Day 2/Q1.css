@@ -1,0 +1,30 @@
+
+        body {
+            font-family:  sans-serif;
+        }
+        h1 {
+            font-family: sans-serif;
+            text-align: center;
+        }
+        .instructions {
+            font-style: italic;
+        }
+        .ingredient-meat {
+            background-color: lightcoral;
+            padding: 5px;
+            margin-bottom: 5px;
+        }
+        .ingredient-vegetable {
+            background-color: lightgreen;
+            padding: 5px;
+            margin-bottom: 5px;
+        }
+        .ingredient-dairy {
+            background-color: rgb(244, 244, 154);
+            padding: 5px;
+            margin-bottom: 5px;
+        }
+        ul {
+            list-style-type: none;
+        }
+    

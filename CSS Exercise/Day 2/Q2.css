@@ -1,0 +1,30 @@
+
+        .box {
+            width: 300px;
+            height: 200px;
+            border: 2px solid #000;
+            border-radius: 10px;
+            background-color: rgb(150, 236, 239);
+            padding: 20px;
+        }
+        .meat {
+            background-color: lightcoral;
+            padding: 5px;
+            margin-bottom: 5px;
+        }
+        .vegetable {
+            background-color: lightgreen;
+            padding: 5px;
+            margin-bottom: 5px;
+        }
+        .dairy {
+            background-color: lightyellow;
+            padding: 5px;
+            margin-bottom: 5px;
+        }
+       
+        h1{
+            text-align: center;
+        }
+        
+   

@@ -1,0 +1,24 @@
+
+        body {
+            display: flex;
+            height: 100vh;
+            margin: 0;
+            background: lightgray;
+        }
+
+        .right-column {
+            width: 50%;
+            background: lightgreen;
+            padding: 20px;
+            display: flex;
+            flex-direction: column;
+            justify-content: flex-start;
+        }
+
+        .left-column {
+            width: 50%;
+            padding: 20px;
+            display: flex;
+            flex-direction: column;
+        }
+  

@@ -1,0 +1,28 @@
+.image-container {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  #image1 {
+    width: 100px;
+    height: 100px;
+    border-style: solid;
+    border-width: 2px 4px 3px 5px;
+    border-color: red green blue yellow;
+  }
+  #image2 {
+    width: 100px;
+    height: 100px;
+    border-style: solid;
+    border-width: 2px 4px 3px 5px;
+    border-color: rgb(211, 227, 109) rgb(106, 178, 59) rgb(65, 166, 213) rgb(78, 47, 67);
+  }
+  #image3 {
+    width: 100px;
+    height: 100px;
+    border-style: solid;
+    border-width: 2px 4px 3px 5px;
+    border-color: rgba(129, 223, 36, 0.514) rgb(33, 74, 76) rgb(28, 42, 165) rgb(220, 134, 42);
+  }
+  
+  
